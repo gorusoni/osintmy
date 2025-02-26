@@ -1,1 +1,1 @@
-# osintmy
+# osintmym
